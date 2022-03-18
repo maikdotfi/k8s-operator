@@ -1,0 +1,6 @@
+apiVersion: maik.maik.fi/v1alpha1
+kind: Helloworld
+metadata:
+  name: helloworld-sample
+spec:
+  size: 3
